@@ -1,5 +1,5 @@
 package com.cs175.bulletinandroid.bulletin;
-
+//test
 import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -42,6 +42,8 @@ public class LoginActivity extends AppCompatActivity implements OnRequestListene
 
     private TextView mainTitle;
     private TextView subTitle;
+
+    //testing
 
 
 
